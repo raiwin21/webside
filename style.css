@@ -34,6 +34,9 @@ footer {
   color: rgb(76, 214, 207);
 }
 
+
 .graphic{
-  background-image: url("");
+  background-image: url("images/chantaburi-cover.jpeg");
+  height: 320px;
+  padding: auto;
 }
